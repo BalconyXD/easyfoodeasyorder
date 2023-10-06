@@ -1,0 +1,7 @@
+D:\WindowsFormsApplication4\obj\Debug\Easy food easy order.csprojAssemblyReference.cache
+D:\WindowsFormsApplication4\obj\Debug\easyfoodeasyorder.Form1.resources
+D:\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\WindowsFormsApplication4\obj\Debug\Easy food easy order.csproj.GenerateResource.cache
+D:\WindowsFormsApplication4\obj\Debug\Easy food easy order.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
